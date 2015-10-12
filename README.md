@@ -2,7 +2,7 @@
 
 Simple app to simulate a slot machine.
 
------------------------
+
 ![demo]
 
 [demo]: https://raw.githubusercontent.com/SergioCarabantes/SlotMachine/master/screenshots/SlotMachineDemo.gif
